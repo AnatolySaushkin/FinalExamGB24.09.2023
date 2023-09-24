@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Final Exam\obj\Debug\net6.0\Final Exam.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Final Exam\obj\Debug\net6.0\Final Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Final Exam\obj\Debug\net6.0\Final Exam.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Final Exam\obj\Debug\net6.0\Final Exam.AssemblyInfo.cs
+C:\Users\hp\Desktop\Final Exam\obj\Debug\net6.0\Final Exam.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Final Exam\bin\Debug\net6.0\Final Exam.exe
+C:\Users\hp\Desktop\Final Exam\bin\Debug\net6.0\Final Exam.deps.json
+C:\Users\hp\Desktop\Final Exam\bin\Debug\net6.0\Final Exam.runtimeconfig.json
+C:\Users\hp\Desktop\Final Exam\bin\Debug\net6.0\Final Exam.dll
+C:\Users\hp\Desktop\Final Exam\bin\Debug\net6.0\Final Exam.pdb
+C:\Users\hp\Desktop\Final Exam\obj\Debug\net6.0\Final Exam.dll
+C:\Users\hp\Desktop\Final Exam\obj\Debug\net6.0\refint\Final Exam.dll
+C:\Users\hp\Desktop\Final Exam\obj\Debug\net6.0\Final Exam.pdb
+C:\Users\hp\Desktop\Final Exam\obj\Debug\net6.0\Final Exam.genruntimeconfig.cache
+C:\Users\hp\Desktop\Final Exam\obj\Debug\net6.0\ref\Final Exam.dll
