@@ -72,3 +72,8 @@ void PrintNewArray(string[] Array2)
         System.Console.Write(Array2[i] + " ");
     }
 }
+
+
+
+////Задача №1 Выполнить сложение выражений. 
+//// Задача №2. Вывести результат на экран. 
